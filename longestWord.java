@@ -14,5 +14,4 @@ public static String ans="";
                 temp.deleteCharAt(temp.length()-1);
             }
         }
-        
     }
